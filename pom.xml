@@ -27,6 +27,10 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>org.springframework.mobile</groupId>
+            <artifactId>spring-mobile-device</artifactId>
+        </dependency>
     </dependencies>
 
     <properties>

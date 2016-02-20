@@ -1,6 +1,7 @@
 # spring-boot-actuator
 
 https://spring.io/guides/gs/actuator-service/
+https://spring.io/guides/gs/device-detection/
 
 Building a RESTful Web Service with Spring Boot Actuator
 
