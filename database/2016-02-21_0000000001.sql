@@ -32,11 +32,13 @@ DROP TABLE IF EXISTS  person;
 CREATE TABLE person
 (
   id integer NOT NULL,
-  firstname character varying(50),
-  lastname character varying(50),
+  first_name character varying(50) NOT NULL,
+  last_name character varying(50),
   CONSTRAINT person_pkey PRIMARY KEY (id)
 ) WITH (OIDS=FALSE);
 ALTER TABLE person OWNER TO postgres;
+insert into table_sequences (table_sequence_id, table_name, current_value)
+values (5, 'person', 0);
 
 
 -- *****************************************************************************

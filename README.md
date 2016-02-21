@@ -20,3 +20,6 @@ It responds with the following JSON:
 
 There are also has many features added to your application out-of-the-box for managing the service in a production (or other) environment. The business functionality of the service you build is the same as in Building a RESTful Web Service. You don’t need to use that guide to take advantage of this one, although it might be interesting to compare the results.
 
+Table Sequences
+http://stackoverflow.com/questions/12121840/meaning-of-generatedvalue-with-strategy-of-table
+
