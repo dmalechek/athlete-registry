@@ -23,3 +23,6 @@ There are also has many features added to your application out-of-the-box for ma
 Table Sequences
 http://stackoverflow.com/questions/12121840/meaning-of-generatedvalue-with-strategy-of-table
 
+File Upload
+https://spring.io/guides/gs/uploading-files/
+
